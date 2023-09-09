@@ -4,3 +4,6 @@ Esto es un fichero muy chulo. Estos son cambios que se aplicaran conrebas y han 
 hola. fichero de lectura para nuestro repositorio.
 
 Esto es una modifocación Y estoy haciendo uno progresos muy chulos que han sido retromados mediante el stash
+
+# Modificación mediante GitHub
+Esto es una modificaacion mediante la web
